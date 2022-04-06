@@ -4,11 +4,14 @@
 </h1>
 <h3 align="center">UI/UX DESIGNER</h3>
 
+<span style="text-align:center;">
+
 - 🔭 I’m currently working on Fast-8 Group
 
 - 🌱 I’m currently learning **Solidity Programming**
 
 - 📫 How to reach me: **aditmdd@outlook.com**
+ </span>
 
 
 <h3 align="center">Connect with me:</h3>
