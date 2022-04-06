@@ -1,5 +1,5 @@
-<img src="https://emoji.gg/assets/emoji/7652-sleepingkitten-zz.png" height="40">
-<h1 align="center">Hi, I'm Aditya Mahaputra Dirgantara 
+
+<h1 align="center"><img src="https://emoji.gg/assets/emoji/7652-sleepingkitten-zz.png" height="40"> Hi, I'm Aditya Mahaputra Dirgantara 
   <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 </h1>
 <h3 align="center">UI/UX Designer</h3>
