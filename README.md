@@ -2,11 +2,11 @@
 <h1 align="center"><img src="https://emoji.gg/assets/emoji/7652-sleepingkitten-zz.png" height="40"> Hi, I'm Aditya Mahaputra Dirgantara 
   <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 </h1>
-<h3 align="center">UI/UX Designer</h3>
+<h3 align="center">UI/UX DESIGNER</h3>
 
 - 🔭 I’m currently working on Fast-8 Group
 
-- 🌱 I’m currently learning **Typescript, Solidity and Python**
+- 🌱 I’m currently learning **Solidity Programming**
 
 - 📫 How to reach me: **aditmdd@outlook.com**
 
